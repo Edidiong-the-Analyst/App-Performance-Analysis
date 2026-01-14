@@ -1,3 +1,5 @@
+**_Company name is a placeholder_**
+
 # Subscription Performance Analysis – FitTrack Fitness App
 
 ## Overview
